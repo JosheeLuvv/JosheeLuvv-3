@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
+name: Your Name- Joshua Grimes
+title: Your job title- Janitor
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
@@ -16,20 +16,20 @@ website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Kengo
+github_username:  josheeluvv
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+dribbble_username: 
+facebook_username: joshua grimes
+flickr_username: 
+instagram_username: jellyjosh.b.g
+linkedin_username: 
+xing_username: 
+pinterest_username:
+youtube_username: Kengo
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
@@ -110,7 +110,7 @@ content:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+Sleep, no motion, solitary, euthanized, fruity, a gambler that bets on the impossible.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
